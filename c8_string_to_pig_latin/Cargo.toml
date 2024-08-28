@@ -1,0 +1,6 @@
+[package]
+name = "c8_string_to_pig_latin"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
